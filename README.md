@@ -121,6 +121,11 @@ et9.0
 | [PollyMailKit](https://github.com/Swevo/PollyMailKit) | MailKit SMTP email client |
 | [PollyAzureQueueStorage](https://github.com/Swevo/PollyAzureQueueStorage) | Azure Queue Storage QueueClient |
 
+## 💼 Need .NET consulting?
+
+The author of this package is available for consulting on **Polly v8 resilience**, **Azure cloud architecture**, and **clean .NET design**.
+
+**[→ solidqualitysolutions.com](https://www.solidqualitysolutions.com/)**
 ## License
 
 MIT © Justin Bannister
